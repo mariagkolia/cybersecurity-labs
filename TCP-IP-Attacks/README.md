@@ -26,7 +26,7 @@ Academic cybersecurity lab focused on understanding TCP/IP vulnerabilities and n
 - Examined SYN Cookies as a defensive mechanism.
 
 ## Lab Report
-[View the full lab report](./TCP IP Attack Lab.pdf)
+[View the full lab report](./TCP-IP-Attack-Lab.pdf)
 
 ## Disclaimer
 All exercises were conducted in an isolated academic lab environment for educational purposes.
