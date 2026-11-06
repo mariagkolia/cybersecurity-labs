@@ -1,19 +1,31 @@
+
 # Cybersecurity Labs
 
-A collection of hands-on cybersecurity labs completed as part of my MSc studies in Systems Security.
+A collection of hands-on cybersecurity labs completed as part of my MSc studies in Systems Security at Aristotle University of Thessaloniki.
 
 ## Labs
 
-- **TCP/IP Attacks:** SYN Flooding, TCP RST attacks and Session Hijacking
-- **Spectre:** Speculative execution and cache side-channel analysis
-- **Meltdown:** Kernel memory protection and side-channel experiments
-- **Race Conditions:** TOCTOU vulnerabilities and security countermeasures
-- **Dirty COW:** Linux privilege escalation vulnerability
+- **[TCP/IP Attacks](./TCP-IP-Attacks/):** SYN Flooding, TCP RST attacks, Session Hijacking and Reverse Shells.
+- **[Spectre Attack](./Spectre-Attack/):** Speculative execution, branch prediction and cache side-channel analysis.
+- **[Meltdown Attack](./Meltdown-Attack/):** Kernel memory protection, CPU cache analysis and side-channel experiments.
+- **[Race Condition Vulnerabilities](./Race-Condition/):** TOCTOU vulnerabilities, privilege escalation and security countermeasures.
+- **[Dirty COW](./Dirty-COW/):** Linux kernel vulnerability exploitation and privilege escalation.
 
 ## Tools & Technologies
 
-Linux, Wireshark, Scapy, Netwox, Netcat, C
+- **Operating Systems:** Linux (Ubuntu, Kali Linux)
+- **Network Security Tools:** Wireshark, Scapy, Netwox, Netcat
+- **Programming & Scripting:** C, Python (Scapy), Bash
+- **Additional Tools:** GCC, Virtual Machines
 
 ## About
 
-These labs were conducted in controlled academic environments. The repository documents my learning process, experimental observations and understanding of cybersecurity concepts.
+These labs were conducted in controlled academic environments as part of my postgraduate coursework.
+
+This repository documents my learning process, hands-on exercises, experimental observations and understanding of network and system security concepts.
+
+Each lab includes a README describing the exercises, tools, learning outcomes and results, along with a detailed lab report.
+
+## Disclaimer
+
+All experiments were performed in controlled academic environments for educational purposes.
